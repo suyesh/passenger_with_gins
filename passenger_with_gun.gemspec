@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "CLEAR Passenger workers"
   spec.description   = "CLEAR Passenger workers"
-  spec.homepage      = "http://github.com"
+  spec.homepage      = "https://github.com/suyesh/passenger_with_guns"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
